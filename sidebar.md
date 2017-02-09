@@ -28,6 +28,7 @@
 - [事件处理](#docs/javascript/event)
 - [克隆](#docs/javascript/clone)
 - [正则表达式](#docs/javascript/regexp)
+- [DOM](#docs/javascript/dom)
 - [HTML5](#docs/javascript/html5)
 - [CSS3](#docs/javascript/css3)
 - [export](#docs/javascript/export)
